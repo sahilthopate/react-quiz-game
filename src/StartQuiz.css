@@ -1,0 +1,8 @@
+.start h2{ 
+    color: darkgray ;
+    font-size: 2rem;
+}
+
+.start button{
+    background-color: blue;
+}
